@@ -1,6 +1,10 @@
 # Readme
 This is a submission to junior dev for [Ruuf](https://ruuf.cl/).
 
+## Requirements
+* python 3.11
+* pytest
+
 ## How to run
 This program runs on the CLI and receives four arguments, which can be integers or decimals, for example:
 
